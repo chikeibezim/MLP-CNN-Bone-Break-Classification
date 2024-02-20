@@ -17,4 +17,4 @@ With Keras and TensorFlow I was able to construct a model that was able to detec
 - COnvolutional Neural Network (96%)
 
 ## Kaggle Kernel
-If you would like to visit the kaggle kernel this model was trained: [https://www.kaggle.com/twhitehurst3/keras-malaraia-detection-95-acc/data](https://www.kaggle.com/twhitehurst3/keras-malaraia-detection-95-acc/data)
+If you would like to visit the kaggle kernel this model was trained: [https://www.kaggle.com/code/victor116/mlp-cnn-bone-break-classification-95-acc](https://www.kaggle.com/code/victor116/mlp-cnn-bone-break-classification-95-acc)
